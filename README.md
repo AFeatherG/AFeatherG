@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+这是一个新账户的仓库！
 <!--
 **AFeatherG/AFeatherG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
