@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// 求和
 int main(){
     int i;
     int sum=0;
